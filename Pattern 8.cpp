@@ -3,8 +3,8 @@ using namespace std;
 
 /* PRINT PATTERN 
     1
-    1 2 
-    1 2 3   */
+    2 2 
+    3 3 3   */
 
 int main() {
 
